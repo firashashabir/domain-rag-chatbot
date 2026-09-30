@@ -1,0 +1,16 @@
+Question,Expected Result,Type
+What is Artificial Intelligence?,Answer should explain Artificial Intelligence.,In-document
+What is Machine Learning?,Answer should explain Machine Learning.,In-document
+What is Supervised Learning?,Answer should explain Supervised Learning.,In-document
+What is Unsupervised Learning?,Answer should explain Unsupervised Learning.,In-document
+What is Deep Learning?,Answer should explain Deep Learning.,In-document
+What are examples of Artificial Intelligence?,Answer should mention examples given in the PDF.,In-document
+What is the relationship between AI and Machine Learning?,Answer should explain the relationship using the document.,In-document
+What type of data is used in Supervised Learning?,Answer should mention labeled data.,In-document
+What does Unsupervised Learning discover?,Answer should explain that it discovers patterns or groups.,In-document
+What are neural networks used for in Deep Learning?,Answer should answer using the document.,In-document
+What is the capital of France?,Chatbot should refuse because the information is not in the PDF.,Out-of-document
+Who is the Prime Minister of India?,Chatbot should refuse because the information is not in the PDF.,Out-of-document
+What is the population of India?,Chatbot should refuse because the information is not in the PDF.,Out-of-document
+What is the tallest mountain in the world?,Chatbot should refuse because the information is not in the PDF.,Out-of-document
+What is the speed of light?,Chatbot should refuse because the information is not in the PDF.,Out-of-document
