@@ -54,6 +54,7 @@ The system follows these steps:
 8. Retrieved context is sent to the LLM.
 9. The LLM generates an answer.
 10. The source document and page number are displayed.
+![RAG Architecture](rag_architecture_workflow.png)
 
 ---
 
