@@ -68,3 +68,7 @@ The chatbot successfully answered document-related questions and refused questio
 This project demonstrates the use of Retrieval-Augmented Generation for PDF question answering.
 
 The system combines PDF processing, text chunking, embeddings, vector search, retrieval, and a local language model to provide answers grounded in uploaded documents.
+
+### Architecture / Workflow
+
+![RAG Architecture](rag_architecture_workflow.png)
